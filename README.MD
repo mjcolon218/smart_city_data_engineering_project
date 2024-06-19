@@ -34,7 +34,7 @@ This project provides a comprehensive data pipeline solution to extract, transfo
 ## System Setup
 1. Clone the repository.
    ```bash
-    git clone https://github.com/airscholar/RedditDataEngineering.git
+    git clone https://github.com/mjcolon218/smart_city_data_engineering_project.git
    ```
 2. Create a virtual environment.
    ```bash
