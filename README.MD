@@ -367,9 +367,9 @@ if __name__ == "__main__":
 This script reads from five different Kafka topics, applies a schema to each topic, and writes the data.
 
 
-![crawler.PNG](/images/crawler.png)
+![crawler.png](/images/crawler.PNG)
 
-![awsprojectpics.png](/images/awsprojectpics.PNG.jpg)
+![awsprojectpics.png](/images/awsprojectpics.PNG)
 # Key Takeaways #
 * Apache Kafka is an open-source distributed event streaming platform used for building real-time data pipelines and streaming applications. 
 * The project highlights the importance of real-time data processing for smart city applications. By using Apache Kafka and Spark Streaming, the system can handle continuous data streams, providing up-to-the-minute insights and allowing for immediate action based on incoming data.
