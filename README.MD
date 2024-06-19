@@ -476,3 +476,4 @@ When working on a smart city streaming project involving Kafka, Spark, and Docke
 ### Conclusion
 
 By understanding these common issues and their troubleshooting steps, you can effectively diagnose and resolve problems in your smart city streaming project. Ensure that all configurations are double-checked, services are running as expected, and network connectivity is properly established. Regular monitoring and logging will also help in quickly identifying and addressing any issues that arise.
+This Smart City Streaming Project showcases the integration of cutting-edge technologies to simulate, process, and analyze real-time data streams. By leveraging Apache Kafka for data ingestion and Spark Streaming for data processing, this project provides a scalable and fault-tolerant architecture suitable for modern urban environments
